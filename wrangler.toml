@@ -1,0 +1,8 @@
+name = "kouza-enquete"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kouza-enquete-db"
+database_id = "45923c9b-05d9-4195-8183-1466a4abb234"
